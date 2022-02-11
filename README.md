@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @john-miha
-- 🌱 I’m currently learning web application development by Tech Academy.
+- 🌱 I’m currently learning web application development in Tech Academy.
 - 📫 Please reach me in Twitter @KVQm1f6x7DQSBmj.
 
 <!---
